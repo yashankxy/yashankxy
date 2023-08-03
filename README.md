@@ -16,7 +16,7 @@
   "organizational_experience": [
     {
       "organization": "UofT Crypto Club ₿",
-      "role": "Vice President 👑",
+      "role": "President 👑",
       "responsibilities": "Organizing exciting events and fostering a vibrant crypto community"
     }
   ],
