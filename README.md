@@ -10,7 +10,7 @@
   "work_experience": [
     {
       "company": "Nokia",
-      "role": "Software Tester (Network Automation) 🕹️"
+      "role": "Software Engineer (Network Automation) 🕹️"
     }
   ],
   "organizational_experience": [
